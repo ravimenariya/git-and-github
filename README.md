@@ -1,1 +1,3 @@
-# git-and-github
+# git-and-githu
+
+hello in vs code
